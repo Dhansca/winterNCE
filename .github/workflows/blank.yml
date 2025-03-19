@@ -8,6 +8,6 @@ jobs:
       - name: print greeting
         run: echo "hello"
       - name: Createfile
-        run: touch first.txt
+        run: mkdir first
         
   
